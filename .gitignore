@@ -21,7 +21,6 @@ target/
 .mvn
 mvnw
 mvnw.cmd
-mydemo.iml
 
 ### NetBeans ###
 /nbproject/private/
